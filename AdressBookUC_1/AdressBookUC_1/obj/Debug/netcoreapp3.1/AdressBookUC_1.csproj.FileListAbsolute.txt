@@ -1,0 +1,14 @@
+E:\fellowship\DAY_27\AdressBookUC_1\AdressBookUC_1\bin\Debug\netcoreapp3.1\AdressBookUC_1.exe
+E:\fellowship\DAY_27\AdressBookUC_1\AdressBookUC_1\bin\Debug\netcoreapp3.1\AdressBookUC_1.deps.json
+E:\fellowship\DAY_27\AdressBookUC_1\AdressBookUC_1\bin\Debug\netcoreapp3.1\AdressBookUC_1.runtimeconfig.json
+E:\fellowship\DAY_27\AdressBookUC_1\AdressBookUC_1\bin\Debug\netcoreapp3.1\AdressBookUC_1.runtimeconfig.dev.json
+E:\fellowship\DAY_27\AdressBookUC_1\AdressBookUC_1\bin\Debug\netcoreapp3.1\AdressBookUC_1.dll
+E:\fellowship\DAY_27\AdressBookUC_1\AdressBookUC_1\bin\Debug\netcoreapp3.1\AdressBookUC_1.pdb
+E:\fellowship\DAY_27\AdressBookUC_1\AdressBookUC_1\obj\Debug\netcoreapp3.1\AdressBookUC_1.csproj.AssemblyReference.cache
+E:\fellowship\DAY_27\AdressBookUC_1\AdressBookUC_1\obj\Debug\netcoreapp3.1\AdressBookUC_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY_27\AdressBookUC_1\AdressBookUC_1\obj\Debug\netcoreapp3.1\AdressBookUC_1.AssemblyInfoInputs.cache
+E:\fellowship\DAY_27\AdressBookUC_1\AdressBookUC_1\obj\Debug\netcoreapp3.1\AdressBookUC_1.AssemblyInfo.cs
+E:\fellowship\DAY_27\AdressBookUC_1\AdressBookUC_1\obj\Debug\netcoreapp3.1\AdressBookUC_1.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY_27\AdressBookUC_1\AdressBookUC_1\obj\Debug\netcoreapp3.1\AdressBookUC_1.dll
+E:\fellowship\DAY_27\AdressBookUC_1\AdressBookUC_1\obj\Debug\netcoreapp3.1\AdressBookUC_1.pdb
+E:\fellowship\DAY_27\AdressBookUC_1\AdressBookUC_1\obj\Debug\netcoreapp3.1\AdressBookUC_1.genruntimeconfig.cache
